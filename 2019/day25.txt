@@ -1,0 +1,38 @@
+
+
+             12--13
+             |
+             11
+             |
+             10
+             |
+             9--14
+             |
+             |  15--16--17
+             |  |   |
+             5--4   18
+          8--6  |   |
+             7  |   19
+                |
+          3--2--1
+
+
+1 Hull Breach
+2 Warp Drive Maintenance - giant electromagnet -> take will stuck
+3 Corridor - loom
+4 Stables - infinite loop -> take will loop !
+5 Holodeck - antenna
+6 Sick Bay - hologram
+7 Navigation - mug
+8 Gift Wrapping Center - astronaut ice cream
+9 Arcade
+10 Engineering
+11 Hot Chocolate Fountain - space heater
+12 Crew Quarters
+13 Security Checkpoint with pressure-sensitive floor
+14 Storage - escape pod -> take will leave ship
+15 Science Lab - mutex
+16 Passages - tambourine
+17 Hallway
+18 Kitchen - molten lava -> take will melt you
+19 Observatory - photons -> take will get dark : eaten by a grue
